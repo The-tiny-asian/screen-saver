@@ -2,4 +2,4 @@
 a trashy screen saver of cars going across the screen(written in processing
 
 
-![screen-saver](https://github.com/The-tiny-asian/screen-saver/blob/master/Screen Shot 2018-02..4.09PM.png)
+![screen-saver](https://github.com/The-tiny-asian/screen-saver/blob/master/screensaverpic.png)
